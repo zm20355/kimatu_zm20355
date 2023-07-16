@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 　<html lang="ja">
-<head>
-　<meta charset="UTF-8">
-　<title>好きなエージェント紹介</title>
-</head>
-<body>
+　　<head>
+　　　<meta charset="UTF-8">
+　　　<title>好きなエージェント紹介</title>
+　　</head>
+　<body>
 <h2>フェイド</h2>
 <img src="./image/fade.webp" alt="フェイド" width="500" heigh="400">
-</body>
+　</body>
 </html>
